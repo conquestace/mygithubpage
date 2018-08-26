@@ -1,4 +1,4 @@
-# mygithubpage
-Yeah, this is the start page of my homepage
-
-maybe I'll make a website for myself out of this.
+# conquestace
+index.html is the base landing page
+homepage.html: /homepage
+aboutme.html: /me
